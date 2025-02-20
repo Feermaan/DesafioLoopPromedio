@@ -31,7 +31,7 @@ namespace DesafioLoopPromedio
                 Console.WriteLine("Ingresa una nota para agregar al promedio: ");
                 comprobacionNota = Console.ReadLine();
 
-                if (comprobacionNota.Equals("fin")){
+                if (comprobacionNota.ToLower().Equals("fin")){
                     break;
                 }
                 else
