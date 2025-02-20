@@ -1,0 +1,7 @@
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\bin\Debug\DesafioLoopPromedio.exe.config
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\bin\Debug\DesafioLoopPromedio.exe
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\bin\Debug\DesafioLoopPromedio.pdb
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\obj\Debug\DesafioLoopPromedio.csproj.AssemblyReference.cache
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\obj\Debug\DesafioLoopPromedio.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\obj\Debug\DesafioLoopPromedio.exe
+C:\Users\Fernando Martin\source\repos\Dia 5\DesafioLoopPromedio\DesafioLoopPromedio\obj\Debug\DesafioLoopPromedio.pdb
